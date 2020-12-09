@@ -21,3 +21,4 @@ We use the dataset to solve the following metrics:<br/>
   * spacy==2.3.4
   * tqdm==4.46.1
   * plotly==4.14.0, plotly.express==0.4.1
+  * chart_studio==1.1.0
