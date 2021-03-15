@@ -8,6 +8,8 @@ We use the dataset to inestigate the following topics:<br/>
 * How do people's sentiments differ based on the US state they come from/live in? - COVID-related tweets sentiment scores choropleth map visualization using Plotly: average sentiment per state over the course of 6 months
   * i.e. Pattern recognition based off these results show peak negativity in September
 
+![](average_sentiment_scores_choropleth.gif)
+
 Interested in our observations? Please see "ECE143 Final Project.pdf" for the slides for our final presentation.
 
 ## File Structure
