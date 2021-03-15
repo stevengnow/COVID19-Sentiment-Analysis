@@ -1,11 +1,14 @@
 # COVID19-Sentiment-Analysis
 We collected a Covid19 tweets dataset by scraping from Twitter using snscrape and tweepy.<br/>
 This dataset contains 3.7 million English tweets over the span of 6 months (May 1, 2020 to November 19,2020) and user profile locations, which can provide us with insights into how people's attitude towards the COIVD-19 pandemic changed over time.<br/>
+
 We use the dataset to inestigate the following topics:<br/>
 * What are people talking about when they mention COVID-19? - Generating word-clouds for most mentioned words per month.
 * How do people's attitude towards the pandemic change as it evolves? - Sentiment scores analysis scaled from -1 to 1 using Flair, a pre-trained LSTM neural network used with natural language processing.
 * How do people's sentiments differ based on the US state they come from/live in? - COVID-related tweets sentiment scores choropleth map visualization using Plotly: average sentiment per state over the course of 6 months
   * i.e. Pattern recognition based off these results show peak negativity in September
+
+Interested in our observations? Please see "ECE143 Final Project.pdf" for the slides for our final presentation.
 
 ## File Structure
 * python files can be run separately to generate the specific metric titled by the file
